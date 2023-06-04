@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "147ce1fbc57c032a35a0e3071b8c1bb2073b27f526d488421c32735fb67dff3b"
+build_start_time: [1685215556, 410687000]
+build_end_time: [1685215556, 569162000]
+inputs:
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1685215519, 644152175]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1685215519, 646345019]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1685215519, 647851292]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1685215519, 648869645]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1685215519, 649983345]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1685215519, 644920143]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1685215519, 643288090]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1685215519, 650546576]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1685215519, 649668508]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1685215519, 645872773]
+  ? "/Users/bcorr/Desktop/Test/BroGolf1/brogolf1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1685215519, 647035157]

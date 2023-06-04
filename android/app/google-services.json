@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "247869205432",
+    "project_id": "bro-golf1",
+    "storage_bucket": "bro-golf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247869205432:android:5ddd000ff63bc98fbe3d4d",
+        "android_client_info": {
+          "package_name": "com.example.brogolf1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1egiX_hxHkzQQgL47HzBlL7L51zj6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247869205432:android:d6618191cec33a2dbe3d4d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1egiX_hxHkzQQgL47HzBlL7L51zj6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
